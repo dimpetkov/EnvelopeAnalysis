@@ -1,6 +1,5 @@
 package main;
 
-import javax.xml.validation.Validator;
 import java.util.Scanner;
 
 import static main.DataValidator.responseAnalyze;

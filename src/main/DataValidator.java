@@ -12,9 +12,6 @@ public class DataValidator {
         }
     }
     public static boolean responseAnalyze(String input) {
-        if (input.toLowerCase().equals("y") || input.toLowerCase().equals("yes")) {
-            return true;
-        }
-        return false;
+        return input.equalsIgnoreCase("y") || input.equalsIgnoreCase("yes");
     }
 }
