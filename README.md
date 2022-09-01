@@ -15,3 +15,4 @@ user answers “y” or “yes” (case insensitive), the program continues from
 the execution.
 
 ### Launching the program:
+By running the Main class and follow the instructions on the console. 
