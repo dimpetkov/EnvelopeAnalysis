@@ -1,5 +1,3 @@
-package main;
-
 public class DataValidator {
 
     public static boolean isValidNumber(String input) {
@@ -15,3 +13,4 @@ public class DataValidator {
         return input.equalsIgnoreCase("y") || input.equalsIgnoreCase("yes");
     }
 }
+ 
